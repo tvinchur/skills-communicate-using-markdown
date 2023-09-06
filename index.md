@@ -10,3 +10,6 @@ a = 'I am getting this'
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] Finish this mini course
+- [ ] take screenshots
+- [ ] submit assignment
